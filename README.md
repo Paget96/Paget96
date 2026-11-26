@@ -5,24 +5,24 @@
 <a href="https://www.paget96projects.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=3FB950&center=true&vCenter=true&width=620&lines=Android+apps+on+Google+Play;BMW+iDrive+7+apps+running+on+a+real+car;Websites+for+the+apps+and+for+local+businesses" alt="What I build"></a>
 
 <p>
-  <a href="https://www.paget96projects.com"><img src="https://img.shields.io/badge/website-paget96projects.com-1f8a5b?style=for-the-badge" alt="Website"></a>
-  <a href="https://t.me/Paget96_Projects"><img src="https://img.shields.io/badge/Telegram-Paget96%20Projects-26a5e4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://www.instagram.com/thedakiness/"><img src="https://img.shields.io/badge/Instagram-thedakiness-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.tiktok.com/@paget96"><img src="https://img.shields.io/badge/TikTok-paget96-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://www.paget96projects.com"><img src="https://badgen.net/badge/website/paget96projects.com/1f8a5b?scale=1.3" alt="Website"></a>
+  <a href="https://t.me/Paget96_Projects"><img src="https://badgen.net/badge/icon/Paget96%20Projects/26a5e4?icon=telegram&label=Telegram&scale=1.3" alt="Telegram"></a>
+  <a href="https://www.instagram.com/thedakiness/"><img src="https://badgen.net/badge/Instagram/thedakiness/e4405f?scale=1.3" alt="Instagram"></a>
+  <a href="https://www.tiktok.com/@paget96"><img src="https://badgen.net/badge/TikTok/paget96/000000?scale=1.3" alt="TikTok"></a>
 </p>
 
 </div>
 
 ## About me
 
-I am Danijel, an Android and web developer from Zrenjanin, Serbia. I build my own apps under the name **Paget96**, the websites behind them, and things for my BMW.
+I am Danijel, an Android and web developer from Zrenjanin, Serbia. I build my own apps under the name **Paget96**, the websites behind them, sites for local businesses, and things for my BMW.
 
 - Android apps in Kotlin and Jetpack Compose, Material 3 Expressive
 - Web: Next.js, React, TypeScript, PostgreSQL
 - BMW iDrive 7 (MGU) apps that run on the car's head unit
 - Years of Android ROM, kernel and Magisk work before that
 
-## What I make
+## Apps
 
 | | Project | What it is |
 |---|---|---|
@@ -30,11 +30,20 @@ I am Danijel, an Android and web developer from Zrenjanin, Serbia. I build my ow
 | 📶 | [**Network Guru**](https://play.google.com/store/apps/details?id=com.paget96.netspeedindicator) | Network speed in the status bar, speed test, Wi-Fi analyzer |
 | 🔦 | [**Shake Flashlight**](https://play.google.com/store/apps/details?id=com.paget96.shakeflashlight) | Shake the phone to turn the torch on |
 | 🌙 | [**LumiGuard**](https://play.google.com/store/apps/details?id=com.paget96.bluelightfilter) | Night mode and blue light filter for the screen |
+| ⏱️ | [**Workout Timer**](https://play.google.com/store/apps/details?id=com.paget96.workouttimer) | A simple timer for workouts at home or in the gym |
+| 🥷 | [**Shuriken Smash**](https://play.google.com/store/apps/details?id=com.paget96.shurikensmash) | Ninja Survivor, a game |
 | 🚗 | [**Paget96 Garage**](https://github.com/Paget96/Paget96-Garage) | BMW iDrive 7 apps: live engine data, a car health check, exhaust flap control |
-| 📊 | [**BatteryMentor**](https://batterymentor.com) | Real-world battery life per phone, from Battery Guru users |
 | ⚡ | [**LSpeed**](https://github.com/Paget96/LSpeed) | The Android tuning app that started it all |
 
-All of them: [paget96projects.com](https://www.paget96projects.com)
+## Websites
+
+| | Site | What it is |
+|---|---|---|
+| 🌐 | [**paget96projects.com**](https://www.paget96projects.com) | Home of all Paget96 apps, guides and blog |
+| 📊 | [**BatteryMentor**](https://batterymentor.com) | Real-world battery life per phone, from Battery Guru users |
+| 💪 | [**Nutrifitty**](https://nutrifitty.com) | A social network for trainers, nutritionists, coaches and people building habits |
+| 🏁 | [**BMW Club ZR**](https://bmwclubzr.rs) | The BMW car club of Zrenjanin |
+| ✨ | [**Auto Detailing Korać**](https://koracdetailing.rs) | Car detailing studio in Zrenjanin, with its own shop |
 
 ## GitHub stats
 
